@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Matrix
-![Alt Text]https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47tv77cejkafpoksl0tn3mcpojrp6b6qckpxlyr3gd&rid=giphy.gif
+<img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47tv77cejkafpoksl0tn3mcpojrp6b6qckpxlyr3gd&rid=giphy.gif" height="512" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mustaffa96&icon=5&color=6)](https://visitcount.itsvg.in)
