@@ -4,7 +4,21 @@
   <img height="200" src="https://pa1.narvii.com/5941/17e04341a3c3478fe5ed2bfa8cf55e84f5421cb7_hq.gif"  />
 </div>
 <br/>
-🛰️ I'm currently working on Full Stack Websites (ReactJS (NextJS), AngularJS and VueJS)-MERN, MEAN and MEVN (fastify)<br>👬 I'm looking to collaborate on ChatGPT implementation on websites<br>🤝 I'm looking for help on AI implementation on websites<br>🧑🏻‍🏫 I'm currently learning Tailwind CSS, LUA for games (LOVE) and VueJS.<br>🙋🏻‍♂️ Ask me about websites<br>💡 Fun fact: From Engineering to IT, you will see the difference of the direction of coding
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustaffa
+================================================================================================================================
+
+Web Developer
+-------------
+
+I've been coding in universities for about 6 years, but mostly based on operating-machine code and embedded system, but now I'm working at a Web Development company.
+
+* 🌍  I'm based in Selangor
+* 🖥️  See my portfolio at [Ahmad Mustaffa](http://localhost:3000)
+* ✉️  You can contact me at [ahmadmustaffa8@gmail.com](mailto:ahmadmustaffa8@gmail.com)
+* 🚀  I'm currently working on [Clazzy Satellite](http://satellite.clazzy.my/)
+* 🧠  I'm learning NextJS, VueJS and Tailwind CSS
+* 🤝  I'm open to collaborating on Web Application
+* ⚡  I'm really love to play nunchaku
 
 
 ## 🌐 Socials:
