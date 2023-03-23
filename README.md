@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustaffa.Mustaffa&left_color=darkslategray&left_text=viewer"  />
+  <img height="200" src="https://pa1.narvii.com/5941/17e04341a3c3478fe5ed2bfa8cf55e84f5421cb7_hq.gif"  />
 </div>
 
 🛰️ I'm currently working on Full Stack Websites (ReactJS (NextJS), AngularJS and VueJS)-MERN, MEAN and MEVN (fastify)<br>👬 I'm looking to collaborate on ChatGPT implementation on websites<br>🤝 I'm looking for help on AI implementation on websites<br>🧑🏻‍🏫 I'm currently learning Tailwind CSS, LUA for games (LOVE) and VueJS.<br>🙋🏻‍♂️ Ask me about websites<br>💡 Fun fact: From Engineering to IT, you will see the difference of the direction of coding
