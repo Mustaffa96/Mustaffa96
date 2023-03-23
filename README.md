@@ -33,8 +33,8 @@ I've been coding in universities for about 6 years, but mostly based on operatin
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaffa96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/dylan_mustaffa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
