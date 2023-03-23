@@ -4,7 +4,7 @@
   <img height="200" src="https://pa1.narvii.com/5941/17e04341a3c3478fe5ed2bfa8cf55e84f5421cb7_hq.gif"  />
 </div>
 <br/>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustaffa
+Hi !👋🏻 My name is Mustaffa
 ================================================================================================================================
 
 Web Developer
