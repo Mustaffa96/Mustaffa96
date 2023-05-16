@@ -48,9 +48,9 @@ I've been coding in universities for about 6 years, but mostly based on operatin
 [![My Skills](https://skillicons.dev/icons?i=vscode,arduino,matlab,postman,powershell,ps,ai&perline=10)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
- ![](https://github-readme-stats.vercel.app/api?username=Mustaffa96&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,f9a8d4,d8b4fe,818cf8&hide_border=false&include_all_commits=false&count_private=false)
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Mustaffa96&theme=dark&hide_border=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaffa96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![Mustaffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustaffa96&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,f9a8d4,d8b4fe,818cf8&hide_border=false&include_all_commits=false&count_private=false)
+ ![Mustaffa's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mustaffa96&theme=dark&hide_border=false)<br/>
+ ![Mustaffa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaffa96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Achievements
@@ -59,7 +59,7 @@ I've been coding in universities for about 6 years, but mostly based on operatin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Matrix
+### Matrix
 <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47tv77cejkafpoksl0tn3mcpojrp6b6qckpxlyr3gd&rid=giphy.gif" height="512" />
 
 ---
