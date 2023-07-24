@@ -16,7 +16,7 @@ I've been coding in universities for about 6 years, but mostly based on operatin
 * 🌍  I'm based in Selangor
 * 🖥️  See my portfolio at [Ahmad Mustaffa](http://localhost:3000)
 * ✉️  You can contact me at [ahmadmustaffa8@gmail.com](mailto:ahmadmustaffa8@gmail.com)
-* 🚀  I'm currently working on [Clazzy Satellite](http://satellite.clazzy.my/)
+* 🚀  I'm currently working on [E-rota Solvnex]([https://erota.solvnex.com/])
 * 🧠  I'm learning NextJS, VueJS and Tailwind CSS
 * 🤝  I'm open to collaborating on Web Application
 * ⚡  I'm really love to play nunchaku
