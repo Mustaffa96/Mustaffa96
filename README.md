@@ -14,9 +14,9 @@ Web Developer
 I've been coding in universities for about 6 years, but mostly based on operating-machine code and embedded system, but now I'm working at a Web Development company.
 
 * 🌍  I'm based in Selangor
-* 🖥️  See my portfolio at [Ahmad Mustaffa](http://localhost:3000)
+* 🖥️  See my portfolio at [Ahmad Mustaffa](http://resumfar.com)
 * ✉️  You can contact me at [ahmadmustaffa8@gmail.com](mailto:ahmadmustaffa8@gmail.com)
-* 🚀  I'm currently working on [E-rota Solvnex](https://erota.solvnex.com/)
+* 🚀  I'm currently working on [Clazzy](https://www.clazzy.my/)
 * 🧠  I'm learning NextJS, VueJS and Tailwind CSS
 * 🤝  I'm open to collaborating on Web Application
 * ⚡  I'm really love to play nunchaku
