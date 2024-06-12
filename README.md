@@ -58,9 +58,8 @@ I've been coding in universities for about 6 years, but mostly based on operatin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Matrix
-<img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47tv77cejkafpoksl0tn3mcpojrp6b6qckpxlyr3gd&rid=giphy.gif" height="512" />
-
+### GeeksForGeeks Status
+[![Mustaffa's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=ahmadmustaffa8)](https://www.geeksforgeeks.org/user/ahmadmustaffa8/)
 ---
 [![](https://visitcount.itsvg.in/api?id=Mustaffa96&icon=5&color=6)](https://visitcount.itsvg.in)
 
